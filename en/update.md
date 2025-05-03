@@ -2,7 +2,7 @@
 
 ### Files/Tools Needed
 
-- [Drivers & UEFI](https://github.com/woa-vayu/POCOX3Pro-Releases/releases/latest)
+- [Drivers & UEFI](https://github.com/WaLoVayu/POCOX3Pro-Windows-Releases/releases/latest)
 
 ### Boot into Windows
 >

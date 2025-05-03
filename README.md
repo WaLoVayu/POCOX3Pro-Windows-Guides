@@ -28,4 +28,4 @@
 
 ## Where to find us
 
-You can find us at [our Telegram group](https://t.me/windowsonvayu) if you need any assistance!
+You can find us at [our Telegram group](https://t.me/WaLoVayu) if you need any assistance!

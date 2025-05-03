@@ -4,16 +4,16 @@
 
 - A device running Windows 10 or higher
 
-- [FFU Image](https://t.me/woavayuffu)
+- [FFU Image](https://t.me/WaLoVayu_files)
 
-- [UFPTool](https://github.com/woa-vayu/POCOX3Pro-Guides/raw/refs/heads/main/Files/UFPTool.7z)
+- [UFPTool](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/raw/refs/heads/main/Files/UFPTool.7z)
 
 ### Notes
 >
 > [!Warning]
 > All your data will be erased!
 >
-> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/windowsonvayu)
+> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/WaLoVayu)
 >
 > Make sure you use latest 7z to unpack FFU Image. WinRAR or other file archiver utilities can't be used!
 

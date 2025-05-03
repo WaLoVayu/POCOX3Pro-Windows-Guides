@@ -6,12 +6,12 @@ Modified TWRP:
 
 | File Name                                       | Android version |
 |-------------------------------------------------|-----------------|
-| [twrp-3.7.1_vap.img](https://github.com/woa-vayu/POCOX3Pro-Guides/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
+| [twrp-3.7.1_vap.img](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
 - Unlocked bootloader
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Latest POCO X3 Pro firmware](https://github.com/woa-vayu/POCOX3Pro-Guides/releases/download/firmware/fw_vayu_miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip)
+- [Latest POCO X3 Pro firmware](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/releases/download/firmware/fw_vayu_miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip)
 
 ### Notes
 >
@@ -20,7 +20,7 @@ Modified TWRP:
 >
 > Do not run the same command twice.
 >
-> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/windowsonvayu).
+> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/WaLoVayu).
 >
 > Do not run all commands at once, execute them in order!
 

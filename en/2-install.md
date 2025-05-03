@@ -6,11 +6,11 @@ Modified TWRP:
 
 | File Name                                       | Android version |
 |-------------------------------------------------|-----------------|
-| [twrp-3.7.1_vap.img](https://github.com/woa-vayu/POCOX3Pro-Guides/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
+| [twrp-3.7.1_vap.img](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
 
 - [Windows on ARM image](https://arkt-7.github.io/woawin/)
 
-- [Drivers & UEFI](https://github.com/woa-vayu/POCOX3Pro-Releases/releases/latest)
+- [Drivers & UEFI](https://github.com/WaLoVayu/POCOX3Pro-Windows-Releases/releases/latest)
 
 ### Boot into TWRP
 >
