@@ -62,7 +62,7 @@ adb pull /dev/block/by-name/boot boot.img
 > [!Important]
 > It is mandatory to flash the latest firmware (this does not affect your current ROM).
 
-- Download the **fw_vayu_miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip** and put it somewhere on your phone.
+- Download the **fw_vayu_miui.zip** and put it somewhere on your phone.
 - Select the **Install** button in TWRP, locate the firmware file, then install it.
 - There is no need to reboot yet, stay in TWRP for the next few steps.
 
