@@ -10,7 +10,7 @@
 | ⌨️ Side buttons        |                                                 | ✅            |
 | ♋ Cellular Calls      |                                                 | ❌            |
 | ♋ Cellular Data       | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
-| ♋ Cellular Texts      | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
+| ♋ SMS                 | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
 | ♋ Wifi                |                                                 | ✅            |
 | 📦 UFS                 |                                                 | ✅            |
 | 🔵 Bluetooth           |                                                 | ✅            |
