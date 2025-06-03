@@ -6,7 +6,7 @@ Modified TWRP:
 
 | File Name                                       | Android version |
 |-------------------------------------------------|-----------------|
-| [twrp-3.7.1_vap.img](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
+| [twrp-3.7.1_vap.img](https://github.com/WaLoVayu/POCOX3Pro-Common-Files/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
 - Unlocked bootloader
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
