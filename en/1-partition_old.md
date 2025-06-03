@@ -6,12 +6,12 @@ Modified TWRP:
 
 | File Name                                       | Android version |
 |-------------------------------------------------|-----------------|
-| [twrp-3.7.1_vap.img](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
+| [twrp-3.7.1_vap.img](https://github.com/WaLoVayu/POCOX3Pro-Common-Files/releases/download/twrp/twrp-3.7.1_vap.img) | Android 12/12.1/13/14/15 |
 - Unlocked bootloader
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Latest POCO X3 Pro firmware](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/releases/download/firmware/fw_vayu_miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip)
+- [Latest POCO X3 Pro firmware](https://github.com/WaLoVayu/POCOX3Pro-Common-Files/releases/download/last_firmware/fw_vayu_miui.zip)
 
 ### Notes
 >
