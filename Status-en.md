@@ -79,5 +79,5 @@ REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /
 
 | Feature                | Notes                               | Status         |
 |------------------------|-------------------------------------|----------------|
-| 📲 Brightness control  |                                     | ✅            |
+| 🔆 Brightness control  |                                     | ✅            |
 | 🎆 X64 simulation      |                                     | ✅            |
