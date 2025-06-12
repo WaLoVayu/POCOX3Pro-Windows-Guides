@@ -36,9 +36,9 @@
 
 | Feature                | Notes                                       | Status         |
 |------------------------|---------------------------------------------|----------------|
-| 🔉 Audio Speaker       |                                             | ✅            |
-| 🔉 Handset  Speaker    |                                             | ✅            |
-| 🔉 AUX                 |                                             | ✅            |
+| 🔉 Bottom Speaker       |                                             | ✅            |
+| 🔉 Top  Speaker    |                                             | ✅            |
+| 🎧 AUX                 |                                             | ✅            |
 | 🎙️ Internal Top Mic    |                                             | ✅            |
 | 🎙️ Internal Bottom Mic |                                             | ✅            |
 
