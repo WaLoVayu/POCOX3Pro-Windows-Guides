@@ -8,10 +8,10 @@
 | Feature                | Notes                                           | Status         |
 |------------------------|-------------------------------------------------|----------------|
 | ⌨️ Side buttons        |                                                 | ✅            |
-| ♋ Cellular Calls      |                                                 | ❌            |
-| ♋ Cellular Data       | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
-| ♋ SMS                 | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
-| ♋ Wifi                |                                                 | ✅            |
+| 📞 Cellular Calls      |                                                 | ❌            |
+| 📶 Cellular Data       | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
+| 💬 SMS                 | SIM card must be in SIM1 (MicroSD slot)         | ✅            |
+| 🛜 Wifi                |                                                 | ✅            |
 | 📦 UFS                 |                                                 | ✅            |
 | 🔵 Bluetooth           |                                                 | ✅            |
 | 🎆 GPU                 |                                                 | ✅            |
