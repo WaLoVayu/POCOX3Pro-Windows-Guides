@@ -13,7 +13,7 @@
 
 ## Get started
 
-- [Project status](/Status-en.md)
+- [Project status](/en/status.md)
 
 - [Installation instructions](en/installation-selection.md)
 

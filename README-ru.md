@@ -13,7 +13,7 @@
 
 ## Начать
 
-- [Статус проекта](/Status-ru.md)
+- [Статус проекта](/ru/status.md)
 
 - [Инструкции по установке](ru/installation-selection.md)
 
