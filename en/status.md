@@ -61,7 +61,7 @@
 > - RoleSwitchMode 3 -> USB Fn
 >
 ```batch
-REM Force USB Host mode (identical to the older driver release of this month):
+REM Force USB Host mode:
 REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /v RoleSwitchMode /t REG_DWORD /d 1
 ```
 
