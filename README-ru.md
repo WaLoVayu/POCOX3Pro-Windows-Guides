@@ -1,6 +1,5 @@
-# Windows on Poco X3 Pro
-[English Guide](/README.md)
-
+# Windows на Poco X3 Pro
+[English](/README.md)
 
 ![POCO X3 Pro Windows](https://github.com/user-attachments/assets/17ba0c91-3fa1-4d32-92cf-63249d23c235)
 
@@ -14,36 +13,20 @@
 
 ## Начать
 
-
-
 - [Статус проекта](/Status-ru.md)
 
-
-
 - [Инструкции по установке](ru/installation-selection.md)
-
-
 
 ## Дополнительно 
 
 - [Настройка DualBoot](ru/3-dualboot.md)
 
+- [Обновление драйверов](ru/update.md)
 
+- [Инструкция по переустановке](ru/reinstall.md)
 
-- [Update drivers](ru/update.md)
+- [Инструкция по удалению](en/uninstall.md)
 
+## Где нас найти
 
-
-- [Reinstall instructions](ru/reinstall.md)
-
-
-
-- [Uninstall instructions](en/uninstall.md)
-
-
-
-## Where to find us
-
-
-
-You can find us at [our Telegram group](https://t.me/WaLoVayu) if you need any assistance!
+Вы можете найти нас в [нашем Telegram чате](https://t.me/WaLoVayu) если вам нужна помощь!
