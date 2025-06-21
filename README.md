@@ -1,4 +1,5 @@
 # Windows on Poco X3 Pro
+[Русский](/README-ru.md)
 
 ![POCO X3 Pro Windows](https://github.com/user-attachments/assets/17ba0c91-3fa1-4d32-92cf-63249d23c235)
 
