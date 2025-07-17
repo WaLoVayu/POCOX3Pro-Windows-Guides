@@ -36,4 +36,4 @@
 > [!Note]
 > If it does not boot into Android, reboot into recovery by holding the **volume up** + **power** buttons, and do a factory reset there.
 
-## [Next step: Setting up dualboot](4-dualboot.md)
+## [Next step: Setting up dualboot](3-dualboot.md)
