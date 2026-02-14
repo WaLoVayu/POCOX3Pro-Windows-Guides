@@ -15,18 +15,18 @@
 
 - [Статус проекта](/ru/status.md)
 
-- [Инструкции по установке](ru/installation-selection.md)
+- [Инструкции по установке](en/installation-selection.md)
 
 ## Дополнительно 
 
-- [Настройка DualBoot](ru/3-dualboot.md)
+- [Настройка DualBoot](en/3-dualboot.md)
 
-- [Обновление драйверов](ru/update.md)
+- [Обновление драйверов](en/update.md)
 
-- [Инструкция по переустановке](ru/reinstall.md)
+- [Инструкция по переустановке](en/reinstall.md)
 
-- [Инструкция по удалению](ru/uninstall.md)
+- [Инструкция по удалению](en/uninstall.md)
 
 ## Где нас найти
 
-Вы можете найти нас в [нашем Telegram чате](https://t.me/WaLoVayu) если вам нужна помощь!
+Вы можете найти нас в [нашем Telegram чате](https://t.me/woahelperchat) если вам нужна помощь!
