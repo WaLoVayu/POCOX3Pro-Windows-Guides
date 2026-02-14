@@ -15,17 +15,17 @@
 
 - [Статус проекта](/ru/status.md)
 
-- [Инструкции по установке](en/installation-selection.md)
+- [Инструкции по установке](ru/installation-selection.md)
 
 ## Дополнительно 
 
-- [Настройка DualBoot](en/3-dualboot.md)
+- [Настройка DualBoot](ru/3-dualboot.md)
 
-- [Обновление драйверов](en/update.md)
+- [Обновление драйверов](ru/update.md)
 
-- [Инструкция по переустановке](en/reinstall.md)
+- [Инструкция по переустановке](ru/reinstall.md)
 
-- [Инструкция по удалению](en/uninstall.md)
+- [Инструкция по удалению](ru/uninstall.md)
 
 ## Где нас найти
 
