@@ -24,4 +24,4 @@ fastboot flash recovery path\to\twrp.img reboot recovery
 adb shell format
 ```
 
-## [Next step: Reinstalling Windows](/en/3-install.md)
+## [Next step: Reinstalling Windows](/en/2-install.md)
