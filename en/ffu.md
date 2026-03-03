@@ -13,7 +13,7 @@
 > [!Warning]
 > All your data will be erased!
 >
-> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/WaLoVayu)
+> DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the [Telegram chat](https://t.me/woahelperchat)
 >
 > Make sure you use latest 7z to unpack FFU Image. WinRAR or other file archiver utilities can't be used!
 
