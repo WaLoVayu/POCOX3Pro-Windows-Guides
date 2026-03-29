@@ -73,11 +73,6 @@ exit
 
 ### Installing Windows
 >
-> [!Important]
-> Do not install, or update to, Windows 11 **24H2 26100.7XXX** / **25H2 26200.7XXX** or higher! You will not be able to boot into these builds due to a BSoD issue!
->
-> Builds prior to **26X00.7XXX** are safe to use.
-
 > Replace `path\to\install.esd` with the actual path of install.esd (it may also be named install.wim or 22631.2861.XXXXXXX.esd)
 
 ```cmd
