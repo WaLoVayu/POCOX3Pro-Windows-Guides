@@ -4,6 +4,8 @@
 
 - A device running Windows 10 or higher
 
+- [UEFI](https://github.com/WaLoVayu/POCOX3Pro-Windows-Releases/releases/latest)
+
 - [FFU Image](https://t.me/WaLoVayu_files)
 
 - [UFPTool](https://github.com/WaLoVayu/POCOX3Pro-Windows-Guides/raw/refs/heads/main/Files/UFPTool.7z)
@@ -25,7 +27,7 @@
 
 ### Booting into FFU mode
 
-- Reboot into UEFI and hold the `volume up` button until the QR code and wrench icons appear on the screen.
+- Boot into UEFI by running `fastboot boot path\to\uefi.img` while in fastboot mode.
 
 ### Flashing the FFU Image
 
